@@ -3,7 +3,7 @@
 Welcome to **Imperial Biryani**, a modern and responsive restaurant website built using **HTML, CSS, and JavaScript**.
 
 ## ✨ Features
-
+![image alt](https://github.com/SmartDealHub/imperial-biryani/blob/main/images/logo.jpg.jpeg?raw=true)
 - 🏠 Home Page
 - 📖 About Us
 - 🍽️ Menu Page
