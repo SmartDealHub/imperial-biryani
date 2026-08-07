@@ -77,6 +77,14 @@ nav ul li a.active{
     url("https://images.unsplash.com/photo-1563379091339-03246963d29a?auto=format&fit=crop&w=1600&q=80");
     background-size:cover;
     background-position:center;
+}margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background-image: url("bhojan.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .hero-content h1{
