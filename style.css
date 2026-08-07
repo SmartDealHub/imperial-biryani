@@ -188,5 +188,21 @@ nav ul li{
 section h2{
     font-size:30px;
 }
+.whatsapp{
+    position:fixed;
+    bottom:20px;
+    right:20px;
+    background:#25D366;
+    color:white;
+    padding:15px 20px;
+    border-radius:50px;
+    text-decoration:none;
+    font-weight:bold;
+    box-shadow:0 5px 15px rgba(0,0,0,0.3);
+    z-index:1000;
+}
 
+.whatsapp:hover{
+    transform:scale(1.05);
+}
 }
