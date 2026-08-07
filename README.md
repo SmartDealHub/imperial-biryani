@@ -1,4 +1,4 @@
-# 🍛 Imperial Biryani
+<img src="logo.jpg.jpeg" alt="logo.jpg.jpeg"> Imperial Biryani
 
 Welcome to **Imperial Biryani**, a modern and responsive restaurant website built using **HTML, CSS, and JavaScript**.
 
