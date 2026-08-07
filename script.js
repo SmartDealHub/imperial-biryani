@@ -83,3 +83,13 @@ if(footer){
     "&copy; " + new Date().getFullYear() +
     " Imperial Biryani. All Rights Reserved.";
 }
+const menuBtn = document.querySelector(".menu-btn");
+const navbar = document.querySelector("nav");
+
+if(menuBtn){
+
+menuBtn.addEventListener("click",()=>{
+    navbar.classList.toggle("active");
+});
+
+}
