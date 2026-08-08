@@ -269,4 +269,12 @@ nav ul{
 
 .logo h1 {
     margin: 0;
+}.hero{
+    background-image:
+        linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)),
+        url("bhojan.jpeg");
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
